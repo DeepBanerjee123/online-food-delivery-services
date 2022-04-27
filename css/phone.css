@@ -1,0 +1,32 @@
+/* #home{
+height:240px;
+flex-direction: column;
+padding: -15px 200px;
+}
+#home::before{
+    height: 400px; ;
+}
+.h-primaryspecial{
+    padding: -20px 12px;
+}
+#home p{
+    font-size: 13px;
+}
+
+#services{
+
+}
+
+#services{
+    flex-direction: column;
+}
+#clients{
+    overflow: hidden;
+}
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1 rem;
+    padding:0px 7 px;
+} */
